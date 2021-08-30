@@ -49,7 +49,7 @@
 
 </a>
 <a href="https://github.com/AlexArtaud-Dev/Roomba-Discord-Bot">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexArtaud-Dev&repo=Roomba-Discord-BotX&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexArtaud-Dev&repo=Roomba-Discord-Bot&theme=light" />
 </a>
 
 <div align="center">
