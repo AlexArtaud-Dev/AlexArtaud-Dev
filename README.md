@@ -29,7 +29,7 @@
 - ⚡ Fun fact: I love anything that i related to science, new tecnologies/hardware and i'm also a fan of anime/manga.
 
 [![Twitter: ArtaudAlexandr1](https://img.shields.io/twitter/follow/ArtaudAlexandr1?style=social)](https://twitter.com/ArtaudAlexandr1)
-[![Linkedin: Alexandre Artaud](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-artaud-872a6a190/)](https://www.linkedin.com/in/alexandre-artaud-872a6a190/)
+[![Linkedin: Alexandre Artaud](https://img.shields.io/badge/-alexandre-artaud-872a6a190-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-artaud-872a6a190/)](https://www.linkedin.com/in/alexandre-artaud-872a6a190/)
 [![GitHub AlexArtaud-Dev](https://img.shields.io/github/followers/AlexArtaud-Dev?label=follow&style=social)](https://github.com/AlexArtaud-Dev)
 
 
