@@ -29,7 +29,6 @@
 - ⚡ Fun fact: I love anything that i related to science, new tecnologies/hardware and i'm also a fan of anime/manga.
 
 [![Twitter: ArtaudAlexandr1](https://img.shields.io/twitter/follow/ArtaudAlexandr1?style=social)](https://twitter.com/ArtaudAlexandr1)
-[![Linkedin: Linkedin](https://img.shields.io/badge/-alexandre-artaud-872a6a190-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-artaud-872a6a190/)](https://www.linkedin.com/in/alexandre-artaud-872a6a190/)
 [![GitHub AlexArtaud-Dev](https://img.shields.io/github/followers/AlexArtaud-Dev?label=follow&style=social)](https://github.com/AlexArtaud-Dev)
 
 
@@ -43,7 +42,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexArtaud-Dev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Alexandre's github stats"/>
 </a>
 <a href="https://github.com/iampawan/FlutterExampleApps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
