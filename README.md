@@ -26,7 +26,7 @@
 - 💬 Ask me about Javascript or any tech / hardware related stuff.
 - 📫 How to reach me: [Twitter - @ArtaudAlexandr1](https://twitter.com/ArtaudAlexandr1) , Discord - |Alex|#3227
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love anything that i related to science, new tecnologies/hardware and i'm also a fan of anime/manga.
+- ⚡ Fun fact: I love everything that i related to science, new tecnologies/hardware and i'm also a fan of anime/manga.
 
 [![Twitter: ArtaudAlexandr1](https://img.shields.io/twitter/follow/ArtaudAlexandr1?style=social)](https://twitter.com/ArtaudAlexandr1)
 [![GitHub AlexArtaud-Dev](https://img.shields.io/github/followers/AlexArtaud-Dev?label=follow&style=social)](https://github.com/AlexArtaud-Dev)
