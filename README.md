@@ -48,8 +48,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexArtaud-Dev&repo=MangAnime&theme=light" />
 
 </a>
-<a href="https://github.com/AlexArtaud-Dev/Roomba-V2">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexArtaud-Dev&repo=Roomba-V2X&theme=light" />
+<a href="https://github.com/AlexArtaud-Dev/Roomba-Discord-Bot">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexArtaud-Dev&repo=Roomba-Discord-BotX&theme=light" />
 </a>
 
 <div align="center">
