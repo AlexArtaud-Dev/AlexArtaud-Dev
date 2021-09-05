@@ -41,8 +41,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>     
 
-<div style="display: flex">
-<a href="https://github.com/AlexArtaud-De">
+
+<a align="center" href="https://github.com/AlexArtaud-De">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexArtaud-Dev&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/AlexArtaud-De">
@@ -60,7 +60,7 @@
 <a href="https://github.com/AlexArtaud-Dev/Key2App">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexArtaud-Dev&repo=Key2App&theme=light" />
 </a>
-</div>
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
