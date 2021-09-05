@@ -53,11 +53,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexArtaud-Dev&repo=MangAnime&theme=light" />
 
 </a>
-<a href="https://github.com/AlexArtaud-Dev/Roomba-Discord-Bot">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexArtaud-Dev&repo=Roomba-Discord-Bot&theme=light" />
-</a>
-
-</a>
 <a href="https://github.com/AlexArtaud-Dev/Key2App">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexArtaud-Dev&repo=Key2App&theme=light" />
 </a>
