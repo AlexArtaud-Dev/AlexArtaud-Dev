@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alexandre Artaud</h1>
 <h3 align="center">A passionate fullstack web developper</h3>
 
-- 🔭 I’m currently working on [Gn-eee](https://github.com/AlexArtaud-Dev/Gn-eee)
+- 🔭 I’m currently working on [ShortyMe]([https://github.com/AlexArtaud-Dev/Gn-eee](https://github.com/AlexArtaud-Dev/ShortyMe))
 
 - 🌱 I’m currently learning **more about C# and Typescript.**
 
 - 👯 I’m looking to collaborate **with everyone**
 
-- 💬 Ask me about **Javascript or any tech / hardware related stuff.**
+- 💬 Ask me about **Javascript/PHP or any tech / hardware related stuff.**
 
 - 📫 How to reach me **[Twitter - @ArtaudAlexandr1](https://twitter.com/ArtaudAlexandr1) , Discord - |Alex|#3227**
 
