@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexandre Artaud</h1>
 <h3 align="center">A passionate fullstack web developper</h3>
 
-- 🔭 I’m currently working on [ShortyMe]([https://github.com/AlexArtaud-Dev/Gn-eee](https://github.com/AlexArtaud-Dev/ShortyMe))
-
 - 🌱 I’m currently learning **more about C# and Typescript.**
 
 - 👯 I’m looking to collaborate **with everyone**
