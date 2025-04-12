@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning more about Symfony and Typescript.<br>👯 I’m looking to collaborate with everyone on innovative projects.<br>💬 Ask me about Javascript/PHP or any tech / hardware related stuff.<br>📫 How to reach me Twitter - @ArtaudAlexandr1 , Discord - alex3227<br>⚡ Fun fact I love everything that is related to science, new technologies/hardware and i'm also a fan of anime/manga.
+💼I'm currently working on a [LicenseForge](https://github.com/AlexArtaud-Dev/LicenseForge).<br>🔭 I’m currently learning more about Symfony and Typescript.<br>👯 I’m looking to collaborate with everyone on innovative projects.<br>💬 Ask me about Javascript/PHP or any tech / hardware related stuff.<br>📫 How to reach me Twitter - @ArtaudAlexandr1 , Discord - alex3227<br>⚡ Fun fact I love everything that is related to science, new technologies/hardware and i'm also a fan of anime/manga.
 
 
 ## 🌐 Socials:
