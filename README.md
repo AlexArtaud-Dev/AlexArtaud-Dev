@@ -6,8 +6,8 @@
 
 ## 💫 About Me
 
-- 💼 Currently working on **[fsnav](https://github.com/AlexArtaud-Dev/fsnav)**
-- 🦀 Currently diving deeper into **Rust**
+- 💼 Currently working on **[Velar](https://github.com/AlexArtaud-Dev/Velar)**
+- 🦀 Currently diving deeper into **Go**
 - 🤝 Open to collaborating on innovative & ambitious projects
 - 💬 Ask me about **JavaScript, PHP, backend systems, infrastructure or hardware**
 - 📫 Reach me on:
